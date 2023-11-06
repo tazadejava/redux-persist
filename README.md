@@ -9,6 +9,8 @@ Persist and rehydrate a redux store.
 
 Forked to merge PR #1324 (If throttle is 0, do not use interval)
 
+Use this in your project by adding the package: `yarn add redux-persist@https://github.com/tazadejava/redux-persist#6.0.0`
+
 ## Quickstart
 `npm install redux-persist`
 
